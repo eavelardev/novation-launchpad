@@ -21,7 +21,7 @@ pip install -e .
 
 ## Use
 
-Show the [exmaples](https://github.com/eavelardev/novation-launchpad/tree/master/examples) folder.
+Show the [examples](https://github.com/eavelardev/novation-launchpad/tree/master/examples) folder.
 
 * Use the Launchpad like a Piano
 * Show 8x8 rgb images
