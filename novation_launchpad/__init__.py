@@ -1,0 +1,7 @@
+from novation_launchpad.launchpad import Launchpad
+from novation_launchpad.launchpad import LaunchpadMk2
+from novation_launchpad.launchpad import LaunchpadPro
+from novation_launchpad.launchpad import LaunchControlXL
+from novation_launchpad.launchpad import LaunchKeyMini
+from novation_launchpad.launchpad import Dicer
+from novation_launchpad import charset
