@@ -18,4 +18,4 @@ I use `Patchage` for link de MIDI ports.
 
 In the examples I use the Launchpad Mk2, you can edit the examples for your device model.
 
-For some examples you need to install `numpy` or `opencv`, check the code.
+For some examples you need to install `numpy` or `opencv-python` with `pip`, check the code.
