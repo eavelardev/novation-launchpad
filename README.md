@@ -2409,6 +2409,6 @@ FMMT666(ASkr)
 [17]: https://github.com/FMMT666/launchpad.py/issues/24
 [18]: https://twitter.com/FMMT666/status/967551405644025857
 [19]: https://www.pygame.org/wiki/Compilation
-[20]: https://pypi.python.org/pypi/python-rtmidi/
-[21]: https://github.com/FMMT666/launchpad.py
+[20]: https://github.com/FMMT666/launchpad.py
+[21]: https://pypi.python.org/pypi/python-rtmidi/
 [22]: https://github.com/dhilowitz/launchpad_rtmidi.py
