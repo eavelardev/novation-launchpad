@@ -425,7 +425,7 @@ or
         try:
           import launchpad
         except ImportError:
-          sys.exit("error loading lauchpad.py")
+          sys.exit("error loading launchpad.py")
 
 #### Checks for a local version first (file in same folder), uses the installed one secondary
 
@@ -437,7 +437,7 @@ or
         try:
           import launchpad_py
         except ImportError:
-          sys.exit("error loading lauchpad.py")
+          sys.exit("error loading launchpad.py")
 
 
 ---
@@ -1134,7 +1134,7 @@ Functions requiring a color code have a "...ByCode" naming style.
       
     Notice that it's absolutely safe to query for an "Pro" or "Mk2" from all classes, e.g.:
     
-      lp = lauchpad.Launchpad()        # Launchpad "Mk1" or "Classic" class
+      lp = launchpad.Launchpad()        # Launchpad "Mk1" or "Classic" class
       if lp.Check( 0, "Pro" ):         # check for "Pro"
         lp = launchpad.LaunchpadPro()  # "reload" the new class for the "Pro"
         lp.Open()                      # equals lp.Open( 0, "Pro" )
